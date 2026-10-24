@@ -1,0 +1,5 @@
+requests
+pypdf
+python-docx
+reportlab
+playwright
