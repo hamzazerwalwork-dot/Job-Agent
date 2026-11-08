@@ -1,0 +1,7 @@
+requests
+pypdf
+python-docx
+reportlab
+playwright
+customtkinter
+pillow
